@@ -1,0 +1,12 @@
+{
+  "name": "gingkoapp-object-id",
+  "description": "Generates MongoDB's ObjectId",
+  "version": "1.0.0",
+  "keywords": [
+    "ObjectId",
+    "MongoDB"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
